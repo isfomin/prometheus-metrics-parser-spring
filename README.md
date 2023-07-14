@@ -30,4 +30,4 @@ public class AppConfig {
 ```
 
 
-**Reqired Java 17 or higher
+Reqired Spring 5 and Java 17 or higher
