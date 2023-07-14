@@ -28,3 +28,6 @@ public class AppConfig {
 }
 
 ```
+
+
+**Reqired Java 17 or higher
